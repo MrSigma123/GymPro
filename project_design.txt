@@ -1,0 +1,4 @@
+PROJECT:
+
+TODOS: Add database
+       create program core
